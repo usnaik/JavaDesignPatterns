@@ -3,7 +3,6 @@ package com.usn.patterns.zchallenge;
 //	Given a String, reverse it [  options ]
 public class ReverseString {
 
-
 	public static void main(String[] args) {		
 		
 		String str = "Hello World!";
