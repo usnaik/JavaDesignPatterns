@@ -30,11 +30,11 @@ public class TestCloning {
 
 		System.out.println(clonedSheep2);
 
-		System.out.println("Sally HashCode: " + System.identityHashCode(System.identityHashCode(sally)));
-
-		System.out.println("Clone 1 HashCode: " + System.identityHashCode(System.identityHashCode(clonedSheep1)));
-
-		System.out.println("Clone 2 HashCode: " + System.identityHashCode(System.identityHashCode(clonedSheep2)));
+//		System.out.println("Sally HashCode: " + System.identityHashCode(System.identityHashCode(sally)));
+//
+//		System.out.println("Clone 1 HashCode: " + System.identityHashCode(System.identityHashCode(clonedSheep1)));
+//
+//		System.out.println("Clone 2 HashCode: " + System.identityHashCode(System.identityHashCode(clonedSheep2)));
 	}
 
 }

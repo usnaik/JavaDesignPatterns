@@ -37,7 +37,7 @@ public class Sheep implements Animal {
 	@Override
 	public String toString() {
 
-		return "Dolly is my Hero, Baaaaa  with hashcode : " + this.hashCode();
+		return "Dolly is my Hero, Baaaaa! My hashcode : " + this.hashCode();
 
 	}
 
